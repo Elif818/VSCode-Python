@@ -8,5 +8,5 @@
 Dünya'nın♥️En♥️Güzel♥️Şehri→İstanbul
 """
 
-"""print("Dünyanın","En","Güzel","Şehri",sep="♥",end="→")
-print("İstanbul")"""
+print("Dünyanın","En","Güzel","Şehri",sep="♥",end="→")
+print("İstanbul")
